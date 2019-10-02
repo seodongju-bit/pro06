@@ -1,4 +1,9 @@
 12123
 3333333333
+<<<<<<< HEAD
 34modidmodmodmod
 333333333444444444
+=======
+asdasdasd
+44444444444444444
+>>>>>>> refs/remotes/origin/master
